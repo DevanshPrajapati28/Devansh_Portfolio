@@ -63,7 +63,7 @@ const PROJECTS: Project[] = [
       "Docker",
       "GitHub Actions",
     ],
-    githubUrl: "https://github.com/DevanshPrajapati28",
+    githubUrl: "https://github.com/param2405/OpsPilot---AI-Intelligent-AIOps-Cloud-Incident-Resolution-Platform/tree/devansh",
     liveUrl: "https://github.com/DevanshPrajapati28",
     featured: true,
   },
@@ -93,7 +93,7 @@ const PROJECTS: Project[] = [
       "Streamlit",
       "Python",
     ],
-    githubUrl: "https://github.com/DevanshPrajapati28",
+    githubUrl: "https://github.com/DevanshPrajapati28/MedIntel-AI-Medical-Report-Analyzer",
     liveUrl: "https://github.com/DevanshPrajapati28",
   },
   {
@@ -122,7 +122,7 @@ const PROJECTS: Project[] = [
       "Seaborn",
       "Python",
     ],
-    githubUrl: "https://github.com/DevanshPrajapati28",
+    githubUrl: "https://github.com/DevanshPrajapati28/AI-Powered-Real-Estate-Valuation",
     liveUrl: "https://github.com/DevanshPrajapati28",
   },
   {
