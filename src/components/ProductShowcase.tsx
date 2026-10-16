@@ -63,7 +63,7 @@ const PROJECTS: Project[] = [
       "Docker",
       "GitHub Actions",
     ],
-    githubUrl: "https://github.com/param2405/OpsPilot---AI-Intelligent-AIOps-Cloud-Incident-Resolution-Platform/tree/devansh",
+    githubUrl: "https://github.com/DevanshPrajapati28/OpsPilot---AI-Intelligent-AIOps-Cloud-Incident-Resolution-Platform",
     liveUrl: "https://github.com/DevanshPrajapati28",
     featured: true,
   },
